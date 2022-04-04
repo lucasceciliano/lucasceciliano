@@ -5,7 +5,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasceciliano&layout=compact&theme=codeSTACKr)
 
 ##
-
+## Skills 🧑🏻‍💻
 
 ![]( https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black )
 ![]( https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white )
